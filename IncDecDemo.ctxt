@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IncDecDemo
+comment0.text=\r\n\ \r\n\r\n\ @author\ Mr.\ Smith\r\n\ @purpose\ demo\ increment/decrement\ and\ prefix/postfix\ operators\r\n\ @date\ 9-14-22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
